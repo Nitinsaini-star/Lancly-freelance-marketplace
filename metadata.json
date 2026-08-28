@@ -1,0 +1,6 @@
+{
+  "name": "Lancly - Freelance Marketplace",
+  "description": "Lancly is a modern and responsive freelancing marketplace platform for clients to post projects and freelancers to discover opportunities, submit proposals, and showcase portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
